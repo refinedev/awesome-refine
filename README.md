@@ -1,4 +1,4 @@
-# Awesome refine
+# Awesome refine [![Awesome](images/badge.svg)](https://github.com/sindresorhus/awesome)
 
 <div align="center" style="margin: 30px;">
 <a href="https://refine.dev/">
