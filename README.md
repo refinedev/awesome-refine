@@ -69,9 +69,15 @@
 * Finefoods Admin Panel [Ant Design] - [Demo](https://example.admin.refine.dev/) - [Source](https://github.com/refinedev/refine/tree/master/examples/fineFoods/admin/antd)
 * Finefoods Admin Panel [Material UI] - [Demo](https://example.mui.admin.refine.dev/) - [Source](https://github.com/refinedev/refine/tree/master/examples/fineFoods/admin/mui)
 * Finefoods Storefront - [Demo](https://example.refine.dev/) - [Source](https://github.com/refinedev/refine/tree/master/examples/fineFoods/client)
-* RealWorld example - [Demo](https://refine.dev/docs/examples/real-world-refine-example/) - [Source](https://github.com/refinedev/refine/tree/master/examples/real-world-example)
-* Win95 example - [Blog](https://refine.dev/blog/awesome-react-windows95-ui-with-refine/) -  [Demo](https://win95.refine.dev/) - [Source](https://github.com/refinedev/refine/tree/master/examples/blog/win95)
+* RealWorld Example - [Demo](https://refine.dev/docs/examples/real-world-refine-example/) - [Source](https://github.com/refinedev/refine/tree/master/examples/real-world-example)
+* Win95 Style Admin Panel - [Blog](https://refine.dev/blog/awesome-react-windows95-ui-with-refine/) -  [Demo](https://win95.refine.dev/) - [Source](https://github.com/refinedev/refine/tree/master/examples/blog/win95)
+* Internal Issue Tracker - [Blog](https://refine.dev/blog/customizable-issue-tracker-with-refine-and-supabase/) - [Demo](https://refine.dev/blog/customizable-issue-tracker-with-refine-and-supabase/#live-stackblitz-example) - [Source](https://github.com/refinedev/refine/tree/master/examples/blog/issueTracker)
 * Invoice Generator App - [Blog](https://refine.dev/blog/refine-invoice-generator/) - [Demo](https://refine.dev/blog/refine-invoice-generator/#live-stackblitz-example) - [Source](https://github.com/refinedev/refine/tree/master/examples/blog/invoiceGenerator)
+* Refeedback - [Source](https://github.com/refinedev/refine/tree/master/examples/blog/refeedback)
+* E-Mail Subscription Panel - [Blog](https://refine.dev/blog/e-mail-subscription-panel-with-refine/) - [Source](https://github.com/refinedev/refine/tree/master/examples/blog/mailSubscription)
+* Next.Js E-Commerce App - [Blog](https://refine.dev/blog/handcrafted-nextjs-e-commerce-app-tutorial-strapi-chakra-ui/) - [Demo](https://refine.dev/blog/handcrafted-nextjs-e-commerce-app-tutorial-strapi-chakra-ui/#live-codesandbox-example) - [Source](https://github.com/refinedev/refine/tree/master/examples/blog/ecommerce)
+* Multi-Tenancy Example - [Appwrite](https://refine.dev/docs/advanced-tutorials/multi-tenancy/appwrite/) - [Strapi](https://refine.dev/docs/advanced-tutorials/multi-tenancy/strapi-v4/)
+* refine PIXELS! - [Demo](https://refine-pixels.vercel.app/canvases) - [Source](https://github.com/aliemir/refine-pixels)
 ## Showcase (Built with refine 🎉)
 Share your apps here! Submit a pull request!
 
