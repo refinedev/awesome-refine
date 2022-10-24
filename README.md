@@ -49,6 +49,7 @@
 ## Learning Resources
 ### Getting Started
 * [Your First App using Ant Design](https://refine.dev/docs/tutorials/ant-design-tutorial/) (Official)
+* [Your First App using Mantine](https://refine.dev/docs/tutorials/mantine-tutorial/) (Official)
 * [Your First App using Material UI](https://refine.dev/docs/tutorials/material-ui-tutorial/) (Official)
 * [Your First Headless App using Tailwind.css](https://refine.dev/docs/tutorials/headless-tutorial/) (Official)
 * [Your First App using Mantine](#) (Coming soon!)
