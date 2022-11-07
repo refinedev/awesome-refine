@@ -96,6 +96,7 @@ Share your apps here! Submit a pull request!
 * [@pankod/refine-antd](https://github.com/refinedev/refine/tree/next/packages/antd)
 * [@pankod/refine-mui](https://github.com/refinedev/refine/tree/next/packages/mui)
 * [@pankod/refine-mantine](https://github.com/refinedev/refine/tree/next/packages/mantine)
+* [@pankod/refine-chakra-uş](https://github.com/refinedev/refine/tree/next/packages/chakra-ui)
 
 ### Data Providers
 * [@pankod/refine-simple-rest](https://github.com/refinedev/refine/tree/next/packages/simple-rest)
