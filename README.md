@@ -132,6 +132,7 @@ Share your apps here! Submit a pull request!
 * [refine-firebase](https://github.com/rturan29/refine-firebase)
 * [@tspvivek/refine-directus](https://github.com/tspvivek/refine-directus)
 * [data-provider-customizer](https://github.com/miyavsu-limited/data-provider-customizer)
+* [refine-elide-rest](https://github.com/chirdeeptomar/refine-elide-rest)
 
 ## Communities
 
