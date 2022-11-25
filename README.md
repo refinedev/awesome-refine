@@ -65,7 +65,7 @@
 * [Integrations](https://refine.dev/integrations/) (Official)
 
 ### Videos
-* [Build React CRUD Admin panel with Ant Design & Refine](https://www.youtube.com/watch?v=eDcxcTSQJaA&ab_channel=DipeshMalvia)
+* [Build React CRUD Admin panel with Ant Design & refine](https://www.youtube.com/watch?v=eDcxcTSQJaA&ab_channel=DipeshMalvia)
 
 ### Advanced Examples
 * refine SWAG Store - [Demo](https://store.refine.dev/) - [Source](https://github.com/refinedev/refine/tree/next/examples/store)
