@@ -64,6 +64,9 @@
 * [Examples](https://refine.dev/examples/) (Official)
 * [Integrations](https://refine.dev/integrations/) (Official)
 
+### Videos
+* [Build React CRUD Admin panel with Ant Design & Refine](https://www.youtube.com/watch?v=eDcxcTSQJaA&ab_channel=DipeshMalvia)
+
 ### Advanced Examples
 * refine SWAG Store - [Demo](https://store.refine.dev/) - [Source](https://github.com/refinedev/refine/tree/next/examples/store)
 * Finefoods Admin Panel [Ant Design] - [Demo](https://example.admin.refine.dev/) - [Source](https://github.com/refinedev/refine/tree/master/examples/fineFoods/admin/antd)
