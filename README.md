@@ -94,12 +94,13 @@ Share your apps here! Submit a pull request!
 ## Packages
 
 * [@pankod/refine-core](https://github.com/refinedev/refine/tree/next/packages/core)
+* [@pankod/refine-inferencer](https://github.com/refinedev/refine/tree/next/packages/inferencer)
 
 ### UI Frameworks
 * [@pankod/refine-antd](https://github.com/refinedev/refine/tree/next/packages/antd)
 * [@pankod/refine-mui](https://github.com/refinedev/refine/tree/next/packages/mui)
 * [@pankod/refine-mantine](https://github.com/refinedev/refine/tree/next/packages/mantine)
-* [@pankod/refine-chakra-uş](https://github.com/refinedev/refine/tree/next/packages/chakra-ui)
+* [@pankod/refine-chakra-ui](https://github.com/refinedev/refine/tree/next/packages/chakra-ui)
 
 ### Data Providers
 * [@pankod/refine-simple-rest](https://github.com/refinedev/refine/tree/next/packages/simple-rest)
@@ -129,7 +130,6 @@ Share your apps here! Submit a pull request!
 * [@pankod/refine-kbar](https://github.com/refinedev/refine/tree/next/packages/kbar)
 * [@pankod/refine-react-table](https://github.com/refinedev/refine/tree/next/packages/react-table)
 * [@pankod/refine-react-hook-form](https://github.com/refinedev/refine/tree/next/packages/react-hook-form)
-
 
 ### Community Packages ❤️
 * [refine-firebase](https://github.com/rturan29/refine-firebase)
