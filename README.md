@@ -30,6 +30,7 @@
 </div>
 
 ## Announcements and Official Blog Posts
+* [refine Open Source Hackathon](https://refine.dev/blog/refine-hackathon/) 
 * [refine Joins the Hacktoberfest Fun](https://refine.dev/blog/hacktoberfest-refine/)
 * [refine swag store is now open!](https://refine.dev/blog/refine-swag-store/)
 * [We’ve raised $1M in Seed Funding! 🚀 🚀 🚀](https://refine.dev/blog/weve-raised-dollar1m-seed-funding/)
@@ -136,6 +137,7 @@ Share your apps here! Submit a pull request!
 * [@tspvivek/refine-directus](https://github.com/tspvivek/refine-directus)
 * [data-provider-customizer](https://github.com/miyavsu-limited/data-provider-customizer)
 * [refine-elide-rest](https://github.com/chirdeeptomar/refine-elide-rest)
+* [ent-refine](https://github.com/diazoxide/entrefine) 
 
 ## Communities
 
