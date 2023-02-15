@@ -36,9 +36,9 @@
 * [We’ve raised $1M in Seed Funding! 🚀 🚀 🚀](https://refine.dev/blog/weve-raised-dollar1m-seed-funding/)
 * [Become a Refine guest technical writer](https://refine.dev/blog/refine-writer-program/)
 
-### 7 Days of refine 🍕 (Coming soon 🚧)
-* [Day 1 - Pilot & refine architecture](#)
-* [Day 2 - Installation the Client App](#)
+### refineWeek ft. Supabase 🍕 
+* [Day 1 - Pilot & refine architecture](https://refine.dev/blog/refine-pixels-1/)
+* [Day 2 - Setting Up the Client App](https://refine.dev/blog/refine-pixels-2/)
 * [Day 3 - Create Public Dashboard page & Canvas create page](#)
 * [Day 4 - Live Provider](#)
 * [Day 5 - Create admin app](#)
@@ -67,6 +67,7 @@
 
 ### Videos
 * [Build React CRUD Admin panel with Ant Design & refine](https://www.youtube.com/watch?v=eDcxcTSQJaA&ab_channel=DipeshMalvia)
+* [Build and Deploy a Full Stack MERN Application with refine](https://www.youtube.com/watch?v=k4lHXIzCEkM&t=2242s)
 
 ### Advanced Examples
 * refine SWAG Store - [Demo](https://store.refine.dev/) - [Source](https://github.com/refinedev/refine/tree/next/examples/store)
