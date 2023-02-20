@@ -39,10 +39,10 @@
 ### refineWeek ft. Supabase 🍕 
 * [Day 1 - Pilot & refine architecture](https://refine.dev/blog/refine-pixels-1/)
 * [Day 2 - Setting Up the Client App](https://refine.dev/blog/refine-pixels-2/)
-* [Day 3 - Create Public Dashboard page & Canvas create page](#)
-* [Day 4 - Live Provider](#)
-* [Day 5 - Create admin app](#)
-* [Day 6 - Setting Access control provider to admin app](#)
+* [Day 3 - Create Public Dashboard page & Canvas create page](https://refine.dev/blog/refine-pixels-3/)
+* [Day 4 - Live Provider](https://refine.dev/blog/refine-pixels-4/)
+* [Day 5 - Create admin app](https://refine.dev/blog/refine-pixels-5/)
+* [Day 6 - Setting Access control provider to admin app](https://refine.dev/blog/refine-pixels-6/)
 * [Day 7 - Audit log provider](#)
 
 ## Hacktoberfest 2022
