@@ -39,11 +39,11 @@
 ### refineWeek ft. Supabase 🍕 
 * [Day 1 - Pilot & refine architecture](https://refine.dev/blog/refine-pixels-1/)
 * [Day 2 - Setting Up the Client App](https://refine.dev/blog/refine-pixels-2/)
-* [Day 3 - Create Public Dashboard page & Canvas create page](https://refine.dev/blog/refine-pixels-3/)
-* [Day 4 - Live Provider](https://refine.dev/blog/refine-pixels-4/)
-* [Day 5 - Create admin app](https://refine.dev/blog/refine-pixels-5/)
-* [Day 6 - Setting Access control provider to admin app](https://refine.dev/blog/refine-pixels-6/)
-* [Day 7 - Audit log provider](#)
+* [Day 3 - Adding CRUD Actions & Authentication](https://refine.dev/blog/refine-pixels-3/)
+* [Day 4 - Adding Realtime Collaboration](https://refine.dev/blog/refine-pixels-4/)
+* [Day 5 - Initialize and Build Pixels Admin App](https://refine.dev/blog/refine-pixels-5/)
+* [Day 6 - Add Role Based Authorization](https://refine.dev/blog/refine-pixels-6/)
+* [Day 7 - Implementing Audit Logs](https://refine.dev/blog/refine-pixels-7/)
 
 ## Hacktoberfest 2022
 * [refine Joins the Hacktoberfest Fun](https://refine.dev/blog/hacktoberfest-refine/)
