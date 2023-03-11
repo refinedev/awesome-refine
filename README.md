@@ -149,8 +149,10 @@ Share your apps here! Submit a pull request!
 ### Router Provider
 * [@refinedev/react-router-v6](https://github.com/refinedev/refine/tree/next/packages/react-router-v6)
 * [@refinedev/nextjs-router](https://github.com/refinedev/refine/tree/next/packages/nextjs-router)
-* [@refinedev/react-location](https://github.com/refinedev/refine/tree/next/packages/react-location)
 * [@refinedev/remix-router](https://github.com/refinedev/refine/tree/next/packages/remix-router)
+
+#### Deprecated
+* [@pankod/refine-react-location](https://github.com/refinedev/refine/tree/next/packages/react-location)
 
 ### Live Provider
 * [@refinedev/ably](https://github.com/refinedev/refine/tree/next/packages/ably)
