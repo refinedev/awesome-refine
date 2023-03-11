@@ -122,43 +122,43 @@ Share your apps here! Submit a pull request!
 
 ## Packages
 
-* [@pankod/refine-core](https://github.com/refinedev/refine/tree/next/packages/core)
-* [@pankod/refine-inferencer](https://github.com/refinedev/refine/tree/next/packages/inferencer)
+* [@refinedev/core](https://github.com/refinedev/refine/tree/next/packages/core)
+* [@refinedev/inferencer](https://github.com/refinedev/refine/tree/next/packages/inferencer)
 
 ### UI Frameworks
-* [@pankod/refine-antd](https://github.com/refinedev/refine/tree/next/packages/antd)
-* [@pankod/refine-mui](https://github.com/refinedev/refine/tree/next/packages/mui)
-* [@pankod/refine-mantine](https://github.com/refinedev/refine/tree/next/packages/mantine)
-* [@pankod/refine-chakra-ui](https://github.com/refinedev/refine/tree/next/packages/chakra-ui)
+* [@refinedev/antd](https://github.com/refinedev/refine/tree/next/packages/antd)
+* [@refinedev/mui](https://github.com/refinedev/refine/tree/next/packages/mui)
+* [@refinedev/mantine](https://github.com/refinedev/refine/tree/next/packages/mantine)
+* [@refinedev/chakra-ui](https://github.com/refinedev/refine/tree/next/packages/chakra-ui)
 
 ### Data Providers
-* [@pankod/refine-simple-rest](https://github.com/refinedev/refine/tree/next/packages/simple-rest)
-* [@pankod/refine-graphql](https://github.com/refinedev/refine/tree/next/packages/graphql)
-* [@pankod/refine-nestjsx-crud](https://github.com/refinedev/refine/tree/next/packages/nestjsx-crud)
-* [@pankod/refine-strapi-v4](https://github.com/refinedev/refine/tree/next/packages/strapi-v4)
-* [@pankod/refine-strapi-graphql](https://github.com/refinedev/refine/tree/next/packages/strapi-graphql) (Strapi v3)
-* [@pankod/refine-strapi](https://github.com/refinedev/refine/tree/next/packages/graphql) (Strapi v3)
-* [@pankod/refine-supabase](https://github.com/refinedev/refine/tree/next/packages/supabase)
-* [@pankod/refine-hasura](https://github.com/refinedev/refine/tree/next/packages/hasura)
-* [@pankod/refine-appwrite](https://github.com/refinedev/refine/tree/next/packages/appwrite)
-* [@pankod/refine-medusa](https://github.com/refinedev/refine/tree/next/packages/medusa)
-* [@pankod/refine-airtable](https://github.com/refinedev/refine/tree/next/packages/airtable)
-* [@pankod/refine-altogic](https://github.com/refinedev/refine/tree/next/packages/altogic)
-* [@pankod/refine-nhost](https://github.com/refinedev/refine/tree/next/packages/nhost)
+* [@refinedev/simple-rest](https://github.com/refinedev/refine/tree/next/packages/simple-rest)
+* [@refinedev/graphql](https://github.com/refinedev/refine/tree/next/packages/graphql)
+* [@refinedev/nestjsx-crud](https://github.com/refinedev/refine/tree/next/packages/nestjsx-crud)
+* [@refinedev/strapi-v4](https://github.com/refinedev/refine/tree/next/packages/strapi-v4)
+* [@refinedev/strapi-graphql](https://github.com/refinedev/refine/tree/next/packages/strapi-graphql) (Strapi v3)
+* [@refinedev/strapi](https://github.com/refinedev/refine/tree/next/packages/graphql) (Strapi v3)
+* [@refinedev/supabase](https://github.com/refinedev/refine/tree/next/packages/supabase)
+* [@refinedev/hasura](https://github.com/refinedev/refine/tree/next/packages/hasura)
+* [@refinedev/appwrite](https://github.com/refinedev/refine/tree/next/packages/appwrite)
+* [@refinedev/medusa](https://github.com/refinedev/refine/tree/next/packages/medusa)
+* [@refinedev/airtable](https://github.com/refinedev/refine/tree/next/packages/airtable)
+* [@refinedev/altogic](https://github.com/refinedev/refine/tree/next/packages/altogic)
+* [@refinedev/nhost](https://github.com/refinedev/refine/tree/next/packages/nhost)
 
 ### Router Provider
-* [@pankod/refine-react-router-v6](https://github.com/refinedev/refine/tree/next/packages/react-router-v6)
-* [@pankod/refine-nextjs-router](https://github.com/refinedev/refine/tree/next/packages/nextjs-router)
-* [@pankod/refine-react-location](https://github.com/refinedev/refine/tree/next/packages/react-location)
-* [@pankod/refine-remix-router](https://github.com/refinedev/refine/tree/next/packages/remix-router)
+* [@refinedev/react-router-v6](https://github.com/refinedev/refine/tree/next/packages/react-router-v6)
+* [@refinedev/nextjs-router](https://github.com/refinedev/refine/tree/next/packages/nextjs-router)
+* [@refinedev/react-location](https://github.com/refinedev/refine/tree/next/packages/react-location)
+* [@refinedev/remix-router](https://github.com/refinedev/refine/tree/next/packages/remix-router)
 
 ### Live Provider
-* [@pankod/refine-ably](https://github.com/refinedev/refine/tree/next/packages/ably)
+* [@refinedev/ably](https://github.com/refinedev/refine/tree/next/packages/ably)
 
 ### Integrations
-* [@pankod/refine-kbar](https://github.com/refinedev/refine/tree/next/packages/kbar)
-* [@pankod/refine-react-table](https://github.com/refinedev/refine/tree/next/packages/react-table)
-* [@pankod/refine-react-hook-form](https://github.com/refinedev/refine/tree/next/packages/react-hook-form)
+* [@refinedev/kbar](https://github.com/refinedev/refine/tree/next/packages/kbar)
+* [@refinedev/react-table](https://github.com/refinedev/refine/tree/next/packages/react-table)
+* [@refinedev/react-hook-form](https://github.com/refinedev/refine/tree/next/packages/react-hook-form)
 
 ### Community Packages ❤️
 * [refine-firebase](https://github.com/rturan29/refine-firebase)
