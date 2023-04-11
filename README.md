@@ -30,6 +30,7 @@
 </div>
 
 ## Announcements and Official Blog Posts
+* [Announcing the Release of refine v4!](https://refine.dev/blog/refine-v4-announcement/)
 * [refine Open Source Hackathon](https://refine.dev/blog/refine-hackathon/) 
 * [refine Joins the Hacktoberfest Fun](https://refine.dev/blog/hacktoberfest-refine/)
 * [refine swag store is now open!](https://refine.dev/blog/refine-swag-store/)
@@ -44,6 +45,14 @@
 * [Day 5 - Initialize and Build Pixels Admin App](https://refine.dev/blog/refine-pixels-5/)
 * [Day 6 - Add Role Based Authorization](https://refine.dev/blog/refine-pixels-6/)
 * [Day 7 - Implementing Audit Logs](https://refine.dev/blog/refine-pixels-7/)
+
+### refineWeek ft. Strapi 🌱
+
+* [Day 1 - Pilot & refine architecture](https://refine.dev/blog/refine-react-invoice-generator-1)
+* [Day 2 - Setting Up the Invoicer App](https://refine.dev/blog/refine-react-invoice-generator-2)
+* [Day 3 - Adding CRUD Actions & Views](#)
+* [Day 4 - Creating Mission and Invoices Pages](#)
+* [Day 5 - Adding PDF Renderer](#)
 
 ## Hacktoberfest 2022
 * [refine Joins the Hacktoberfest Fun](https://refine.dev/blog/hacktoberfest-refine/)
@@ -80,6 +89,9 @@
 * refine PIXELS! - [Demo](https://refine-pixels.vercel.app/canvases) - [Source](https://github.com/aliemir/refine-pixels)
 
 ### Articles
+* [Building a React Admin Dashboard with refine](https://refine.dev/blog/building-react-admin-dashboard/)
+* [refine vs Blitz.js](https://refine.dev/blog/react-admin-frameworks-refine-vs-blitz-js/)
+* [React Admin Panel Tutorial with refine, Chakra UI and Strapi](https://refine.dev/blog/react-admin-tutorial/)
 * [How to Build a React Admin Panel with Mantine and Strapi](https://refine.dev/blog/react-admin-panel/)
 * [refine vs RedwoodJS](https://refine.dev/blog/refine-vs-redwood-js/)
 * [Building a Complete React CRUD App with Airtable](https://refine.dev/blog/react-crud-app-airtable/)
