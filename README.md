@@ -33,12 +33,14 @@
 [refine.new is a powerful open-source tool that lets you create **refine** applications right in your browser](https://refine.new/)
 
 ## Announcements and Official Blog Posts
+* [refine Open Source Hackathon 2](https://refine.dev/blog/refine-hackathon-2/)
+* [refine.new - The Fastest Way to Create refine Apps](https://refine.dev/blog/what-is-refine-new/)
 * [Announcing the Release of refine v4!](https://refine.dev/blog/refine-v4-announcement/)
 * [refine Open Source Hackathon](https://refine.dev/blog/refine-hackathon/) 
 * [refine Joins the Hacktoberfest Fun](https://refine.dev/blog/hacktoberfest-refine/)
 * [refine swag store is now open!](https://refine.dev/blog/refine-swag-store/)
 * [We’ve raised $1M in Seed Funding! 🚀 🚀 🚀](https://refine.dev/blog/weve-raised-dollar1m-seed-funding/)
-* [Become a Refine guest technical writer](https://refine.dev/blog/refine-writer-program/)
+* [Become a refine guest technical writer](https://refine.dev/blog/refine-writer-program/)
 
 ### refineWeek ft. Supabase 🍕 
 * [Day 1 - Pilot & refine architecture](https://refine.dev/blog/refine-pixels-1/)
