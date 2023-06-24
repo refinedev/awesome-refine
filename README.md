@@ -126,7 +126,7 @@
 * [Let's Build an App to Manage Your Hackathons with refine](https://refine.dev/blog/manage-hackathons-with-refine/)
 
 ## Showcase (Built with refine 🎉)
-* [Widin - The SaaS codebase to launch products in weeks](https://widin.io/)
+* [Widin - The SaaS codebase for hexagonal architecture](https://widin.io/?utm_source=awesome-refine&utm_medium=catalog)
 
 ## Inspiration
 
