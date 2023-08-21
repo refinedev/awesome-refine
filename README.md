@@ -186,6 +186,7 @@
 * [@tspvivek/refine-directus](https://github.com/tspvivek/refine-directus)
 * [data-provider-customizer](https://github.com/miyavsu-limited/data-provider-customizer)
 * [refine-elide-rest](https://github.com/chirdeeptomar/refine-elide-rest)
+* [refine-elide-graphql](https://github.com/chirdeeptomar/refine-elide-graphql)
 * [ent-refine](https://github.com/diazoxide/entrefine) 
 
 ## Communities
