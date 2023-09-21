@@ -35,6 +35,7 @@
 [refine.new is a powerful open-source tool that lets you create **refine** applications right in your browser](https://refine.new/)
 
 ## Announcements and Official Blog Posts
+* [Announcing the refine Open Source Hackathon 2 Winners](https://refine.dev/blog/refine-hackathon-2-winners/)
 * [refine Open Source Hackathon 2](https://refine.dev/blog/refine-hackathon-2/)
 * [refine.new - The Fastest Way to Create refine Apps](https://refine.dev/blog/what-is-refine-new/)
 * [Announcing the Release of refine v4!](https://refine.dev/blog/refine-v4-announcement/)
@@ -96,6 +97,11 @@
 * refine PIXELS! - [Demo](https://refine-pixels.vercel.app/canvases) - [Source](https://github.com/aliemir/refine-pixels)
 
 ### Articles
+* [Building React admin panel with NextUI and refine](https://refine.dev/blog/next-ui-react-admin-panel/)
+* [Building a React Admin Panel with refine and daisyUI](https://refine.dev/blog/daisy-ui-react-admin-panel/)
+* [React-admin vs refine - Which React Framework is Best for B2B Apps?](https://refine.dev/blog/react-admin-vs-refine/)
+* [Building a React Admin Panel with PrimeReact and refine](https://refine.dev/blog/building-react-admin-panel-with-primereact-and-refine/)
+* [Building a React Admin Dashboard with Tremor Library](https://refine.dev/blog/building-react-admin-dashboard-with-tremor/)
 * [Building a React Admin Dashboard with refine](https://refine.dev/blog/building-react-admin-dashboard/)
 * [refine vs Blitz.js](https://refine.dev/blog/react-admin-frameworks-refine-vs-blitz-js/)
 * [React Admin Panel Tutorial with refine, Chakra UI and Strapi](https://refine.dev/blog/react-admin-tutorial/)
@@ -187,8 +193,8 @@
 * [data-provider-customizer](https://github.com/miyavsu-limited/data-provider-customizer)
 * [refine-elide-rest](https://github.com/chirdeeptomar/refine-elide-rest)
 * [refine-elide-graphql](https://github.com/chirdeeptomar/refine-elide-graphql)
-* [ent-refine](https://github.com/diazoxide/entrefine) 
-
+* [ent-refine](https://github.com/diazoxide/entrefine)
+* [refine-hygraph](https://github.com/acomagu/refine-hygraph)
 ## Communities
 
 * [refine Blog](https://refine.dev/blog/) (Official, global)
