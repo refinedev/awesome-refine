@@ -30,8 +30,19 @@
 </div>
 
 
+
+
+
+
+
 ## Try refine.new
 [refine.new is a powerful open-source tool that lets you create **refine** applications right in your browser](https://refine.new/)
+
+
+
+## refine devtools 💡
+
+[refine devtools](https://github.com/refinedev/refine/tree/next/packages/devtools) is designed to help you debug and develop your refine apps. It will be a collection of features, including monitoring queries and mutations, testing out inferencer-generated codes, adding and updating refine packages from the UI and more.
 
 ## Announcements and Official Blog Posts
 * [Announcing the refine Open Source Hackathon 2 Winners](https://refine.dev/blog/refine-hackathon-2-winners/)
@@ -167,7 +178,6 @@
 * [@refinedev/appwrite](https://github.com/refinedev/refine/tree/next/packages/appwrite)
 * [@refinedev/medusa](https://github.com/refinedev/refine/tree/next/packages/medusa)
 * [@refinedev/airtable](https://github.com/refinedev/refine/tree/next/packages/airtable)
-* [@refinedev/altogic](https://github.com/refinedev/refine/tree/next/packages/altogic)
 * [@refinedev/nhost](https://github.com/refinedev/refine/tree/next/packages/nhost)
 
 ### Router Provider
@@ -194,6 +204,8 @@
 * [refine-elide-graphql](https://github.com/chirdeeptomar/refine-elide-graphql)
 * [ent-refine](https://github.com/diazoxide/entrefine)
 * [refine-hygraph](https://github.com/acomagu/refine-hygraph)
+* [refine-sanity](https://github.com/hirenf14/refine-sanity)
+
 ## Communities
 
 * [refine Blog](https://refine.dev/blog/) (Official, global)
