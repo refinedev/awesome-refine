@@ -92,6 +92,7 @@
 * [Build and Deploy a Full Stack MERN Application with refine](https://www.youtube.com/watch?v=k4lHXIzCEkM&t=2242s)
 
 ### Advanced Examples
+* CRM Application - [Demo](https://example.crm.refine.dev/) - [Source](https://github.com/refinedev/refine/tree/master/examples/app-crm)
 * refine SWAG Store - [Demo](https://store.refine.dev/) - [Source](https://github.com/refinedev/refine/tree/next/examples/store)
 * Finefoods Admin Panel [Ant Design] - [Demo](https://example.admin.refine.dev/) - [Source](https://github.com/refinedev/refine/tree/master/examples/fineFoods/admin/antd)
 * Finefoods Admin Panel [Material UI] - [Demo](https://example.mui.admin.refine.dev/) - [Source](https://github.com/refinedev/refine/tree/master/examples/fineFoods/admin/mui)
