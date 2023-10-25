@@ -181,6 +181,16 @@
 * [@refinedev/airtable](https://github.com/refinedev/refine/tree/next/packages/airtable)
 * [@refinedev/nhost](https://github.com/refinedev/refine/tree/next/packages/nhost)
 
+### Data Providers by the Community ❤️
+* [refine-firebase](https://github.com/rturan29/refine-firebase)
+* [@tspvivek/refine-directus](https://github.com/tspvivek/refine-directus)
+* [refine-elide-rest](https://github.com/chirdeeptomar/refine-elide-rest)
+* [refine-elide-graphql](https://github.com/chirdeeptomar/refine-elide-graphql)
+* [ent-refine](https://github.com/diazoxide/entrefine)
+* [refine-hygraph](https://github.com/acomagu/refine-hygraph)
+* [refine-sanity](https://github.com/hirenf14/refine-sanity)
+* [refine-jsonapi](https://github.com/MahirMahdi/refine-jsonapi)
+
 ### Router Provider
 * [@refinedev/react-router-v6](https://github.com/refinedev/refine/tree/next/packages/react-router-v6)
 * [@refinedev/nextjs-router](https://github.com/refinedev/refine/tree/next/packages/nextjs-router)
@@ -198,14 +208,9 @@
 * [@refinedev/react-hook-form](https://github.com/refinedev/refine/tree/next/packages/react-hook-form)
 
 ### Community Packages ❤️
-* [refine-firebase](https://github.com/rturan29/refine-firebase)
-* [@tspvivek/refine-directus](https://github.com/tspvivek/refine-directus)
 * [data-provider-customizer](https://github.com/miyavsu-limited/data-provider-customizer)
-* [refine-elide-rest](https://github.com/chirdeeptomar/refine-elide-rest)
-* [refine-elide-graphql](https://github.com/chirdeeptomar/refine-elide-graphql)
-* [ent-refine](https://github.com/diazoxide/entrefine)
-* [refine-hygraph](https://github.com/acomagu/refine-hygraph)
-* [refine-sanity](https://github.com/hirenf14/refine-sanity)
+
+
 
 ## Communities
 
