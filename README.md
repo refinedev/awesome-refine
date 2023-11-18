@@ -1,6 +1,6 @@
-<div align="center" style="margin: 30px;">
+<div align="center">
 <a href="https://refine.dev/">
-  <img src="https://raw.githubusercontent.com/refinedev/awesome-refine/main/images/awesome-refine.png"  align="center" />
+  <img src="https://refine.ams3.cdn.digitaloceanspaces.com/readme/awesome-readme.png"  align="center" />
 </a>
 <br />
 <br />
@@ -35,14 +35,13 @@
 
 
 
-## Try refine.new
-[refine.new is a powerful open-source tool that lets you create **refine** applications right in your browser](https://refine.new/)
+## Try Refine
+Refine's [browser-based app scaffolder](https://refine.dev/#playground) enables you to build a Refine app through an interactive, step-by-step process in your browser. 
 
 
+## Refine devtools 💡
 
-## refine devtools 💡
-
-[refine devtools](https://github.com/refinedev/refine/tree/next/packages/devtools) is designed to help you debug and develop your refine apps. It will be a collection of features, including monitoring queries and mutations, testing out inferencer-generated codes, adding and updating refine packages from the UI and more.
+[Refine devtools](https://github.com/refinedev/refine/tree/next/packages/devtools) is designed to help you debug and develop your Refine apps. It will be a collection of features, including monitoring queries and mutations, testing out inferencer-generated codes, adding and updating Refine packages from the UI and more.
 
 ## Announcements and Official Blog Posts
 * [Announcing the refine Open Source Hackathon 2 Winners](https://refine.dev/blog/refine-hackathon-2-winners/)
@@ -108,18 +107,20 @@
 * refine PIXELS! - [Demo](https://refine-pixels.vercel.app/canvases) - [Source](https://github.com/aliemir/refine-pixels)
 
 ### Articles
-* [Building React admin panel with NextUI and refine](https://refine.dev/blog/next-ui-react-admin-panel/)
-* [Building a React Admin Panel with refine and daisyUI](https://refine.dev/blog/daisy-ui-react-admin-panel/)
-* [React-admin vs refine - Which React Framework is Best for B2B Apps?](https://refine.dev/blog/react-admin-vs-refine/)
-* [Building a React Admin Panel with PrimeReact and refine](https://refine.dev/blog/building-react-admin-panel-with-primereact-and-refine/)
+* [https://refine.dev/blog/react-crm-with-refine/](https://refine.dev/blog/react-crm-with-refine/)
+* [Building React admin panel with NextUI and Refine](https://refine.dev/blog/next-ui-react-admin-panel/)
+* [Building a React Admin Panel with Refine and daisyUI](https://refine.dev/blog/daisy-ui-react-admin-panel/)
+* [React-admin vs Refine - Which React Framework is Best for B2B Apps?](https://refine.dev/blog/react-admin-vs-refine/)
+* [Building a React Admin Panel with PrimeReact and Refine](https://refine.dev/blog/building-react-admin-panel-with-primereact-and-refine/)
 * [Building a React Admin Dashboard with Tremor Library](https://refine.dev/blog/building-react-admin-dashboard-with-tremor/)
-* [Building a React Admin Dashboard with refine](https://refine.dev/blog/building-react-admin-dashboard/)
-* [refine vs Blitz.js](https://refine.dev/blog/react-admin-frameworks-refine-vs-blitz-js/)
-* [React Admin Panel Tutorial with refine, Chakra UI and Strapi](https://refine.dev/blog/react-admin-tutorial/)
+* [Building a React Admin Dashboard with Refine](https://refine.dev/blog/building-react-admin-dashboard/)
+* [Using React Hot Toast as a Notification Provider for Refine apps](https://refine.dev/blog/react-hot-toast)
+* [Refine vs Blitz.js](https://refine.dev/blog/react-admin-frameworks-refine-vs-blitz-js/)
+* [React Admin Panel Tutorial with Refine, Chakra UI and Strapi](https://refine.dev/blog/react-admin-tutorial/)
 * [How to Build a React Admin Panel with Mantine and Strapi](https://refine.dev/blog/react-admin-panel/)
-* [refine vs RedwoodJS](https://refine.dev/blog/refine-vs-redwood-js/)
+* [Refine vs RedwoodJS](https://refine.dev/blog/refine-vs-redwood-js/)
 * [Building a Complete React CRUD App with Airtable](https://refine.dev/blog/react-crud-app-airtable/)
-* [Dynamic Forms with React Hook Form in refine](https://refine.dev/blog/dynamic-forms-in-react-hook-form/)
+* [Dynamic Forms with React Hook Form in Refine](https://refine.dev/blog/dynamic-forms-in-react-hook-form/)
 * [How to Create Dynamic Forms in React CRUD app with Ant Design](https://refine.dev/blog/react-crud-app-with-dynamic-form-ant-design/)
 * [React Hook Form Validation with Complete Examples](https://refine.dev/blog/react-hook-form-validation-examples/)
 * [OTP Authentication with Supabase and Twilio in React](https://refine.dev/blog/supabase-twilio-otp-authentication-in-react/)
@@ -136,23 +137,23 @@
 * [Create Full Featured Admin Panel with React and Ant Design](https://refine.dev/blog/refine-react-ant-design-admin-panel-framework/)
 * [Next.js E-commerce App with Strapi and Chakra UI](https://refine.dev/blog/handcrafted-nextjs-e-commerce-app-tutorial-strapi-chakra-ui/)
 * [Web3 with refine](https://refine.dev/blog/web3-with-refine/)
-* [refine vs react-admin Which is Better for Your Project](https://refine.dev/blog/refine-vs-react-admin/)
-* [refine vs AdminBro - Comparison Admin Panel Framework](https://refine.dev/blog/refine-vs-adminbro/)
-* [Create Your Easy Customizable Internal Issue Tracker With refine and Supabase](https://refine.dev/blog/customizable-issue-tracker-with-refine-and-supabase/)
-* [Create E-mail Subscription Panel with refine and Strapi](https://refine.dev/blog/e-mail-subscription-panel-with-refine/)
-* [Migrating a react-admin Application to refine](https://refine.dev/blog/migrating-a-react-admin-application-to-refine/)
+* [Refine vs react-admin Which is Better for Your Project](https://refine.dev/blog/refine-vs-react-admin/)
+* [Refine vs AdminBro - Comparison Admin Panel Framework](https://refine.dev/blog/refine-vs-adminbro/)
+* [Create Your Easy Customizable Internal Issue Tracker With Refine and Supabase](https://refine.dev/blog/customizable-issue-tracker-with-refine-and-supabase/)
+* [Create E-mail Subscription Panel with Refine and Strapi](https://refine.dev/blog/e-mail-subscription-panel-with-refine/)
+* [Migrating a react-admin Application to Refine](https://refine.dev/blog/migrating-a-react-admin-application-to-refine/)
 * [Build Fast and Customizable Admin Panel with NestJS](https://refine.dev/blog/customizable-admin-panel-with-nestjs/)
 * [Create a Feedback Admin panel in 15 Minutes with Refine and Strapi](https://refine.dev/blog/create-a-feedback-admin-panel-with-refine-and-strapi/)
-* [Simple Web Application Example with refine](https://refine.dev/blog/simple-web-application-with-refine/)
-* [Let's Build an App to Manage Your Hackathons with refine](https://refine.dev/blog/manage-hackathons-with-refine/)
+* [Simple Web Application Example with Refine](https://refine.dev/blog/simple-web-application-with-refine/)
+* [Let's Build an App to Manage Your Hackathons with Refine](https://refine.dev/blog/manage-hackathons-with-refine/)
 
 ## Showcase (Built with refine 🎉)
 * [Widin - The SaaS codebase for hexagonal architecture](https://widin.io/?utm_source=awesome-refine&utm_medium=catalog)
 
 ## Inspiration
 
-* [refine Joins the Hacktoberfest Fun](https://refine.dev/blog/hacktoberfest-refine/)
-* [refine swag store is now open!](https://refine.dev/blog/refine-swag-store/)
+* [Refine Joins the Hacktoberfest Fun](https://refine.dev/blog/hacktoberfest-refine/)
+* [Refine swag store is now open!](https://refine.dev/blog/refine-swag-store/)
 * [We’ve raised $1M in Seed Funding! 🚀 🚀 🚀](https://refine.dev/blog/weve-raised-dollar1m-seed-funding/)
 * [The Advantages and Disadvantages of Working on Open Source Projects](https://refine.dev/blog/open-source-advantages-disadvantages/)
 
@@ -218,6 +219,7 @@
 * [refine Blog](https://refine.dev/blog/) (Official, global)
 * [Discord Server](https://discord.gg/refine) (Official, global)
 * [Twitter](https://twitter.com/refine_dev) (Official, global)
+* [Linkedin](https://www.linkedin.com/company/refine-dev) (Official, global)
 * [Reddit](https://www.reddit.com/r/refine) (Official, global)
 
 You can also find the [refine Topic on GitHub](https://github.com/topics/refine)!
