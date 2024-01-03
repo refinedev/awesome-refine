@@ -148,7 +148,7 @@ Refine's [browser-based app scaffolder](https://refine.dev/#playground) enables 
 * [Let's Build an App to Manage Your Hackathons with Refine](https://refine.dev/blog/manage-hackathons-with-refine/)
 
 ## Showcase (Built with refine 🎉)
-* [Widin - The SaaS codebase for hexagonal architecture](https://widin.io/?utm_source=awesome-refine&utm_medium=catalog)
+* [The starter based on hexagonal architecture | Scale Safe](https://scalesafe.app/?utm_source=awesome-refine&utm_medium=catalog)
 
 ## Inspiration
 
