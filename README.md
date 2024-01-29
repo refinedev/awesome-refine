@@ -44,17 +44,17 @@ Refine's [browser-based app scaffolder](https://refine.dev/#playground) enables 
 [Refine devtools](https://github.com/refinedev/refine/tree/next/packages/devtools) is designed to help you debug and develop your Refine apps. It will be a collection of features, including monitoring queries and mutations, testing out inferencer-generated codes, adding and updating Refine packages from the UI and more.
 
 ## Announcements and Official Blog Posts
-* [Announcing the refine Open Source Hackathon 2 Winners](https://refine.dev/blog/refine-hackathon-2-winners/)
-* [refine Open Source Hackathon 2](https://refine.dev/blog/refine-hackathon-2/)
+* [Announcing the Refine Open Source Hackathon 2 Winners](https://refine.dev/blog/refine-hackathon-2-winners/)
+* [Refine Open Source Hackathon 2](https://refine.dev/blog/refine-hackathon-2/)
 * [refine.new - The Fastest Way to Create refine Apps](https://refine.dev/blog/what-is-refine-new/)
 * [Announcing the Release of refine v4!](https://refine.dev/blog/refine-v4-announcement/)
-* [refine Open Source Hackathon](https://refine.dev/blog/refine-hackathon/) 
-* [refine Joins the Hacktoberfest Fun](https://refine.dev/blog/hacktoberfest-refine/)
-* [refine swag store is now open!](https://refine.dev/blog/refine-swag-store/)
+* [Refine Open Source Hackathon](https://refine.dev/blog/refine-hackathon/) 
+* [Refine Joins the Hacktoberfest Fun](https://refine.dev/blog/hacktoberfest-refine/)
+* [Refine swag store is now open!](https://refine.dev/blog/refine-swag-store/)
 * [We’ve raised $1M in Seed Funding! 🚀 🚀 🚀](https://refine.dev/blog/weve-raised-dollar1m-seed-funding/)
-* [Become a refine guest technical writer](https://refine.dev/blog/refine-writer-program/)
+* [Become a Refine guest technical writer](https://refine.dev/blog/refine-writer-program/)
 
-### refineWeek ft. Supabase 🍕 
+### RefineWeek ft. Supabase 🍕 
 * [Day 1 - Pilot & refine architecture](https://refine.dev/blog/refine-pixels-1/)
 * [Day 2 - Setting Up the Client App](https://refine.dev/blog/refine-pixels-2/)
 * [Day 3 - Adding CRUD Actions & Authentication](https://refine.dev/blog/refine-pixels-3/)
@@ -63,7 +63,7 @@ Refine's [browser-based app scaffolder](https://refine.dev/#playground) enables 
 * [Day 6 - Add Role Based Authorization](https://refine.dev/blog/refine-pixels-6/)
 * [Day 7 - Implementing Audit Logs](https://refine.dev/blog/refine-pixels-7/)
 
-### refineWeek ft. Strapi 🌱
+### RefineWeek ft. Strapi 🌱
 
 * [Day 1 - Pilot & refine architecture](https://refine.dev/blog/refine-react-invoice-generator-1)
 * [Day 2 - Setting Up the Invoicer App](https://refine.dev/blog/refine-react-invoice-generator-2)
@@ -72,7 +72,7 @@ Refine's [browser-based app scaffolder](https://refine.dev/#playground) enables 
 * [Day 5 - Adding PDF Renderer](#)
 
 ## Hacktoberfest 2022
-* [refine Joins the Hacktoberfest Fun](https://refine.dev/blog/hacktoberfest-refine/)
+* [Refine Joins the Hacktoberfest Fun](https://refine.dev/blog/hacktoberfest-refine/)
 ## Learning Resources
 ### Getting Started
 * [Interactive refine Tutorial](https://refine.dev/docs/tutorial/introduction/index/) (Official)
@@ -80,19 +80,20 @@ Refine's [browser-based app scaffolder](https://refine.dev/#playground) enables 
 * [refine Overview](https://refine.dev/docs/getting-started/overview/) (Official)
 * [Comparison](https://refine.dev/docs/comparison/) (Official)
 * [General Concepts](https://refine.dev/docs/api-reference/general-concepts/) (Official)
-* [refine Frequently Asked Questions](https://refine.dev/docs/faq/) (Official)
-* [refine Contributing Guide](https://refine.dev/docs/contributing/) (Official)
+* [Refine Frequently Asked Questions](https://refine.dev/docs/faq/) (Official)
+* [Refine Contributing Guide](https://refine.dev/docs/contributing/) (Official)
 * [Benchmarks](https://refine.dev/docs/further-readings/benchmarks/) (Official)
 * [Examples](https://refine.dev/examples/) (Official)
 * [Integrations](https://refine.dev/integrations/) (Official)
 
 ### Videos
+* [Build and Deploy a React Admin Dashboard With Real time Data using Refine](https://www.youtube.com/watch?v=6a3Dz8gwjdg)
 * [Build React CRUD Admin panel with Ant Design & refine](https://www.youtube.com/watch?v=eDcxcTSQJaA&ab_channel=DipeshMalvia)
 * [Build and Deploy a Full Stack MERN Application with refine](https://www.youtube.com/watch?v=k4lHXIzCEkM&t=2242s)
 
 ### Advanced Examples
 * CRM Application - [Demo](https://example.crm.refine.dev/) - [Source](https://github.com/refinedev/refine/tree/master/examples/app-crm)
-* refine SWAG Store - [Demo](https://store.refine.dev/) - [Source](https://github.com/refinedev/refine/tree/next/examples/store)
+* Refine SWAG Store - [Demo](https://store.refine.dev/) - [Source](https://github.com/refinedev/refine/tree/next/examples/store)
 * Finefoods Admin Panel [Ant Design] - [Demo](https://example.admin.refine.dev/) - [Source](https://github.com/refinedev/refine/tree/master/examples/fineFoods/admin/antd)
 * Finefoods Admin Panel [Material UI] - [Demo](https://example.mui.admin.refine.dev/) - [Source](https://github.com/refinedev/refine/tree/master/examples/fineFoods/admin/mui)
 * Finefoods Storefront - [Demo](https://example.refine.dev/) - [Source](https://github.com/refinedev/refine/tree/master/examples/fineFoods/client)
@@ -104,10 +105,12 @@ Refine's [browser-based app scaffolder](https://refine.dev/#playground) enables 
 * E-Mail Subscription Panel - [Blog](https://refine.dev/blog/e-mail-subscription-panel-with-refine/) - [Source](https://github.com/refinedev/refine/tree/master/examples/blog/mailSubscription)
 * Next.Js E-Commerce App - [Blog](https://refine.dev/blog/handcrafted-nextjs-e-commerce-app-tutorial-strapi-chakra-ui/) - [Demo](https://refine.dev/blog/handcrafted-nextjs-e-commerce-app-tutorial-strapi-chakra-ui/#live-codesandbox-example) - [Source](https://github.com/refinedev/refine/tree/master/examples/blog/ecommerce)
 * Multi-Tenancy Example - [Appwrite](https://refine.dev/docs/advanced-tutorials/multi-tenancy/appwrite/) - [Strapi](https://refine.dev/docs/advanced-tutorials/multi-tenancy/strapi-v4/)
-* refine PIXELS! - [Demo](https://refine-pixels.vercel.app/canvases) - [Source](https://github.com/aliemir/refine-pixels)
+* Refine PIXELS! - [Demo](https://refine-pixels.vercel.app/canvases) - [Source](https://github.com/aliemir/refine-pixels)
 
 ### Articles
-* [https://refine.dev/blog/react-crm-with-refine/](https://refine.dev/blog/react-crm-with-refine/)
+* [Build Access Control Mechanism using Permify in Refine app](https://refine.dev/blog/access-control/)
+* [Using React Hot Toast as a Notification Provider in Refine app](https://refine.dev/blog/react-hot-toast/)
+* [Building a Complete React CRM App with Refine, Ant Design and GraphQL](https://refine.dev/blog/react-crm-with-refine/)
 * [Building React admin panel with NextUI and Refine](https://refine.dev/blog/next-ui-react-admin-panel/)
 * [Building a React Admin Panel with Refine and daisyUI](https://refine.dev/blog/daisy-ui-react-admin-panel/)
 * [React-admin vs Refine - Which React Framework is Best for B2B Apps?](https://refine.dev/blog/react-admin-vs-refine/)
@@ -180,7 +183,7 @@ Refine's [browser-based app scaffolder](https://refine.dev/#playground) enables 
 * [@refinedev/appwrite](https://github.com/refinedev/refine/tree/next/packages/appwrite)
 * [@refinedev/medusa](https://github.com/refinedev/refine/tree/next/packages/medusa)
 * [@refinedev/airtable](https://github.com/refinedev/refine/tree/next/packages/airtable)
-* [@refinedev/nhost](https://github.com/refinedev/refine/tree/next/packages/nhost)
+
 
 ### Data Providers by the Community ❤️
 * [refine-firebase](https://github.com/rturan29/refine-firebase)
