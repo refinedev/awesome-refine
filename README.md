@@ -150,7 +150,7 @@ Refine's [browser-based app scaffolder](https://refine.dev/#playground) enables 
 * [Simple Web Application Example with Refine](https://refine.dev/blog/simple-web-application-with-refine/)
 * [Let's Build an App to Manage Your Hackathons with Refine](https://refine.dev/blog/manage-hackathons-with-refine/)
 
-## Showcase (Built with refine 🎉)
+## Showcase (Built with Refine 🎉)
 * [The starter based on hexagonal architecture | Scale Safe](https://scalesafe.app/?utm_source=awesome-refine&utm_medium=catalog)
 
 ## Inspiration
@@ -219,11 +219,13 @@ Refine's [browser-based app scaffolder](https://refine.dev/#playground) enables 
 
 ## Communities
 
-* [refine Blog](https://refine.dev/blog/) (Official, global)
+* [Refine Blog](https://refine.dev/blog/) (Official, global)
 * [Discord Server](https://discord.gg/refine) (Official, global)
 * [Twitter](https://twitter.com/refine_dev) (Official, global)
 * [Linkedin](https://www.linkedin.com/company/refine-dev) (Official, global)
 * [Reddit](https://www.reddit.com/r/refine) (Official, global)
+* [DEV Community](https://dev.to/refine)
+* [Hashnode Community](https://refine.hashnode.dev/)
+* [Stack Overflow](https://stackoverflow.com/questions/tagged/refinejs)
 
 You can also find the [refine Topic on GitHub](https://github.com/topics/refine)!
-* [DEV Community](https://dev.to/refine)
