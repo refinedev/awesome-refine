@@ -75,9 +75,9 @@ Refine's [browser-based app scaffolder](https://refine.dev/#playground) enables 
 * [Refine Joins the Hacktoberfest Fun](https://refine.dev/blog/hacktoberfest-refine/)
 ## Learning Resources
 ### Getting Started
-* [Interactive refine Tutorial](https://refine.dev/docs/tutorial/introduction/index/) (Official)
+* [Interactive Refine Tutorial](https://refine.dev/docs/tutorial/introduction/index/) (Official)
 * [Quick Start Guide](https://refine.dev/docs/getting-started/quickstart/) (Official)
-* [refine Overview](https://refine.dev/docs/getting-started/overview/) (Official)
+* [Refine Overview](https://refine.dev/docs/getting-started/overview/) (Official)
 * [Comparison](https://refine.dev/docs/comparison/) (Official)
 * [General Concepts](https://refine.dev/docs/api-reference/general-concepts/) (Official)
 * [Refine Frequently Asked Questions](https://refine.dev/docs/faq/) (Official)
@@ -99,11 +99,7 @@ Refine's [browser-based app scaffolder](https://refine.dev/#playground) enables 
 * Finefoods Storefront - [Demo](https://example.refine.dev/) - [Source](https://github.com/refinedev/refine/tree/master/examples/fineFoods/client)
 * RealWorld Example - [Demo](https://refine.dev/docs/examples/real-world-refine-example/) - [Source](https://github.com/refinedev/refine/tree/master/examples/real-world-example)
 * Win95 Style Admin Panel - [Blog](https://refine.dev/blog/awesome-react-windows95-ui-with-refine/) -  [Demo](https://win95.refine.dev/) - [Source](https://github.com/refinedev/refine/tree/master/examples/blog/win95)
-* Internal Issue Tracker - [Blog](https://refine.dev/blog/customizable-issue-tracker-with-refine-and-supabase/) - [Demo](https://refine.dev/blog/customizable-issue-tracker-with-refine-and-supabase/#live-stackblitz-example) - [Source](https://github.com/refinedev/refine/tree/master/examples/blog/issueTracker)
 * Invoice Generator App - [Blog](https://refine.dev/blog/refine-invoice-generator/) - [Demo](https://refine.dev/blog/refine-invoice-generator/#live-stackblitz-example) - [Source](https://github.com/refinedev/refine/tree/master/examples/blog/invoiceGenerator)
-* Refeedback - [Source](https://github.com/refinedev/refine/tree/master/examples/blog/refeedback)
-* E-Mail Subscription Panel - [Blog](https://refine.dev/blog/e-mail-subscription-panel-with-refine/) - [Source](https://github.com/refinedev/refine/tree/master/examples/blog/mailSubscription)
-* Next.Js E-Commerce App - [Blog](https://refine.dev/blog/handcrafted-nextjs-e-commerce-app-tutorial-strapi-chakra-ui/) - [Demo](https://refine.dev/blog/handcrafted-nextjs-e-commerce-app-tutorial-strapi-chakra-ui/#live-codesandbox-example) - [Source](https://github.com/refinedev/refine/tree/master/examples/blog/ecommerce)
 * Multi-Tenancy Example - [Appwrite](https://refine.dev/docs/advanced-tutorials/multi-tenancy/appwrite/) - [Strapi](https://refine.dev/docs/advanced-tutorials/multi-tenancy/strapi-v4/)
 * Refine PIXELS! - [Demo](https://refine-pixels.vercel.app/canvases) - [Source](https://github.com/aliemir/refine-pixels)
 
@@ -135,20 +131,12 @@ Refine's [browser-based app scaffolder](https://refine.dev/#playground) enables 
 * [We are going back to 1995!](https://refine.dev/blog/awesome-react-windows95-ui-with-refine/)
 * [Develop your Own Customizable Invoice Generator with Refine and Strapi | Part I](https://refine.dev/blog/refine-react-admin-invoice-genarator/)
 * [Building an Customizable Invoice Generator App with Refine, Strapi & Ant Design | Part II](https://refine.dev/blog/refine-invoice-generator/)
-* [Build internal tools using Low-Code with Refine, React-based framework](https://refine.dev/blog/build-internal-tools-using-low-code-with-refine/)
-* [Build low-code, customizable and authorization ready (accesscontrol) admin panel with NestJS](https://refine.dev/blog/how-to-access-control-with-nestjs/)
 * [Create Full Featured Admin Panel with React and Ant Design](https://refine.dev/blog/refine-react-ant-design-admin-panel-framework/)
-* [Next.js E-commerce App with Strapi and Chakra UI](https://refine.dev/blog/handcrafted-nextjs-e-commerce-app-tutorial-strapi-chakra-ui/)
-* [Web3 with refine](https://refine.dev/blog/web3-with-refine/)
 * [Refine vs react-admin Which is Better for Your Project](https://refine.dev/blog/refine-vs-react-admin/)
 * [Refine vs AdminBro - Comparison Admin Panel Framework](https://refine.dev/blog/refine-vs-adminbro/)
 * [Create Your Easy Customizable Internal Issue Tracker With Refine and Supabase](https://refine.dev/blog/customizable-issue-tracker-with-refine-and-supabase/)
-* [Create E-mail Subscription Panel with Refine and Strapi](https://refine.dev/blog/e-mail-subscription-panel-with-refine/)
 * [Migrating a react-admin Application to Refine](https://refine.dev/blog/migrating-a-react-admin-application-to-refine/)
 * [Build Fast and Customizable Admin Panel with NestJS](https://refine.dev/blog/customizable-admin-panel-with-nestjs/)
-* [Create a Feedback Admin panel in 15 Minutes with Refine and Strapi](https://refine.dev/blog/create-a-feedback-admin-panel-with-refine-and-strapi/)
-* [Simple Web Application Example with Refine](https://refine.dev/blog/simple-web-application-with-refine/)
-* [Let's Build an App to Manage Your Hackathons with Refine](https://refine.dev/blog/manage-hackathons-with-refine/)
 
 ## Showcase (Built with Refine 🎉)
 * [The starter based on hexagonal architecture | Scale Safe](https://scalesafe.app/?utm_source=awesome-refine&utm_medium=catalog)
@@ -194,6 +182,7 @@ Refine's [browser-based app scaffolder](https://refine.dev/#playground) enables 
 * [refine-hygraph](https://github.com/acomagu/refine-hygraph)
 * [refine-sanity](https://github.com/hirenf14/refine-sanity)
 * [refine-jsonapi](https://github.com/MahirMahdi/refine-jsonapi)
+* [refine-pocketbase](https://github.com/kruschid/refine-pocketbase)
 
 ### Router Provider
 * [@refinedev/react-router-v6](https://github.com/refinedev/refine/tree/next/packages/react-router-v6)
@@ -228,4 +217,4 @@ Refine's [browser-based app scaffolder](https://refine.dev/#playground) enables 
 * [Hashnode Community](https://refine.hashnode.dev/)
 * [Stack Overflow](https://stackoverflow.com/questions/tagged/refinejs)
 
-You can also find the [refine Topic on GitHub](https://github.com/topics/refine)!
+You can also find the [Refine Topic on GitHub](https://github.com/topics/refine)!
