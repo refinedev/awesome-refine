@@ -2,32 +2,41 @@
 <a href="https://refine.dev/">
   <img src="https://refine.ams3.cdn.digitaloceanspaces.com/readme/awesome-readme.png"  align="center" />
 </a>
+  
 <br />
 <br />
+
 
 <div align="center">
     <a href="https://refine.dev">Home Page</a> |
+    <a href="https://refine.dev/docs/">Documentation</a> |
+    <a href="https://refine.dev/examples/">Examples</a> |
     <a href="https://discord.gg/refine">Discord</a> |
-    <a href="https://refine.dev/examples/">Examples</a> | 
-    <a href="https://refine.dev/blog/">Blog</a> | 
-    <a href="https://refine.dev/docs/">Documentation</a> | 
-    <a href="https://github.com/refinedev/refine/projects/1">Roadmap</a>
+    <a href="https://refine.dev/blog/">Blog</a>
 </div>
+</div>
+
+<br/>
+
+<div align="center"><strong>The sweet spot between the low/no code and “starting from scratch” for CRUD-heavy applications.</strong><br> Refine is as an open source, React meta-framework for enterprise. It provides a headless solution for everything from admin panels to dashboards and internal tools.
+<br />
 <br />
 
 </div>
-
-<div align="center"><strong>Build your <a href="https://reactjs.org/">React</a>-based CRUD applications, without constraints.</strong><br>An Open source, headless web application framework developed with flexibility in mind.</div>
-
-<br />
 
 <div align="center">
+
+[![Awesome](https://github.com/refinedev/awesome-refine/raw/main/images/badge.svg)](https://github.com/refinedev/awesome-refine)
+[![OpenSSF Best Practices](https://www.bestpractices.dev/projects/8101/badge)](https://www.bestpractices.dev/projects/8101)
+[![npm version](https://img.shields.io/npm/v/@refinedev/core.svg)](https://www.npmjs.com/package/@refinedev/core)
+[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.0-4baaaa.svg)](CODE_OF_CONDUCT.md)
 
 [![Discord](https://img.shields.io/discord/837692625737613362.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/refine)
 [![Twitter Follow](https://img.shields.io/twitter/follow/refine_dev?style=social)](https://twitter.com/refine_dev)
 
-<a href="https://www.producthunt.com/posts/refine-3?utm_source=badge-top-post-badge&utm_medium=badge&utm_souce=badge-refine&#0045;3" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/top-post-badge.svg?post_id=362220&theme=light&period=daily" alt="refine - 100&#0037;&#0032;open&#0032;source&#0032;React&#0032;framework&#0032;to&#0032;build&#0032;web&#0032;apps&#0032;3x&#0032;faster | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
 </div>
+
+<br/>
 
 
 
@@ -44,6 +53,7 @@ Refine's [browser-based app scaffolder](https://refine.dev/#playground) enables 
 [Refine devtools](https://github.com/refinedev/refine/tree/next/packages/devtools) is designed to help you debug and develop your Refine apps. It will be a collection of features, including monitoring queries and mutations, testing out inferencer-generated codes, adding and updating Refine packages from the UI and more.
 
 ## Announcements and Official Blog Posts
+* [Refine Investment Announcement](https://refine.dev/blog/refine-investment-announcement/)
 * [Announcing the Refine Open Source Hackathon 2 Winners](https://refine.dev/blog/refine-hackathon-2-winners/)
 * [Refine Open Source Hackathon 2](https://refine.dev/blog/refine-hackathon-2/)
 * [refine.new - The Fastest Way to Create refine Apps](https://refine.dev/blog/what-is-refine-new/)
@@ -99,11 +109,14 @@ Refine's [browser-based app scaffolder](https://refine.dev/#playground) enables 
 * Finefoods Storefront - [Demo](https://example.refine.dev/) - [Source](https://github.com/refinedev/refine/tree/master/examples/fineFoods/client)
 * RealWorld Example - [Demo](https://refine.dev/docs/examples/real-world-refine-example/) - [Source](https://github.com/refinedev/refine/tree/master/examples/real-world-example)
 * Win95 Style Admin Panel - [Blog](https://refine.dev/blog/awesome-react-windows95-ui-with-refine/) -  [Demo](https://win95.refine.dev/) - [Source](https://github.com/refinedev/refine/tree/master/examples/blog/win95)
-* Invoice Generator App - [Blog](https://refine.dev/blog/refine-invoice-generator/) - [Demo](https://refine.dev/blog/refine-invoice-generator/#live-stackblitz-example) - [Source](https://github.com/refinedev/refine/tree/master/examples/blog/invoiceGenerator)
+* Invoice Generator App - [Blog](https://refine.dev/templates/react-pdf-invoice-generator/) - [Demo](https://invoice-generator.refine.dev/) - [Source](https://github.com/refinedev/refine/tree/master/examples/invoicer)
 * Multi-Tenancy Example - [Appwrite](https://refine.dev/docs/advanced-tutorials/multi-tenancy/appwrite/) - [Strapi](https://refine.dev/docs/advanced-tutorials/multi-tenancy/strapi-v4/)
 * Refine PIXELS! - [Demo](https://refine-pixels.vercel.app/canvases) - [Source](https://github.com/aliemir/refine-pixels)
 
 ### Articles
+* [Building a React PDF Invoice Generator App with Refine](https://www.digitalocean.com/community/developer-center/building-a-react-pdf-invoice-generator-app-with-refine-and-deploying-to-digitalocean-s-app-platform)
+* [Building a B2B React CRM App with Refine](https://www.digitalocean.com/community/developer-center/building-crm-with-refine-and-digitalocean)
+* [Building a CRUD app with Shadcn UI and Refine](https://refine.dev/blog/shadcn-ui/)
 * [Build Access Control Mechanism using Permify in Refine app](https://refine.dev/blog/access-control/)
 * [Using React Hot Toast as a Notification Provider in Refine app](https://refine.dev/blog/react-hot-toast/)
 * [Building a Complete React CRM App with Refine, Ant Design and GraphQL](https://refine.dev/blog/react-crm-with-refine/)
