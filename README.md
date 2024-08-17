@@ -216,6 +216,7 @@ Refine's [browser-based app scaffolder](https://refine.dev/#playground) enables 
 ### Community Packages ❤️
 * [data-provider-customizer](https://github.com/miyavsu-limited/data-provider-customizer)
 * [@refine-auth/kinde-react](https://github.com/hirenf14/refine-auth-kinde-react)
+* [@ferdiunal/refine-admin](https://github.com/ferdiunal/refine-admin)
 
 
 
