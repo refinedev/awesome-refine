@@ -171,6 +171,7 @@ Refine's [browser-based app scaffolder](https://refine.dev/#playground) enables 
 * [@refinedev/mui](https://github.com/refinedev/refine/tree/next/packages/mui)
 * [@refinedev/mantine](https://github.com/refinedev/refine/tree/next/packages/mantine)
 * [@refinedev/chakra-ui](https://github.com/refinedev/refine/tree/next/packages/chakra-ui)
+* [@ferdiunal/refine-shadcn](https://github.com/ferdiunal/refine-shadcn)
 
 ### Data Providers
 * [@refinedev/simple-rest](https://github.com/refinedev/refine/tree/next/packages/simple-rest)
