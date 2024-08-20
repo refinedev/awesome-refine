@@ -171,6 +171,7 @@ Refine's [browser-based app scaffolder](https://refine.dev/#playground) enables 
 * [@refinedev/mui](https://github.com/refinedev/refine/tree/next/packages/mui)
 * [@refinedev/mantine](https://github.com/refinedev/refine/tree/next/packages/mantine)
 * [@refinedev/chakra-ui](https://github.com/refinedev/refine/tree/next/packages/chakra-ui)
+* [@ferdiunal/refine-shadcn](https://github.com/ferdiunal/refine-shadcn)
 
 ### Data Providers
 * [@refinedev/simple-rest](https://github.com/refinedev/refine/tree/next/packages/simple-rest)
@@ -216,7 +217,6 @@ Refine's [browser-based app scaffolder](https://refine.dev/#playground) enables 
 ### Community Packages ❤️
 * [data-provider-customizer](https://github.com/miyavsu-limited/data-provider-customizer)
 * [@refine-auth/kinde-react](https://github.com/hirenf14/refine-auth-kinde-react)
-* [@ferdiunal/refine-admin](https://github.com/ferdiunal/refine-admin)
 
 
 
